@@ -64,7 +64,7 @@ Y= A⊕B
 Developed by: PREMNATH.E
 RegisterNumber: 212222050045
 
-module (a,b,y1,y2,y3,y4,y5,y6,y7,y8);
+module expone(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7,y8;
 xor(y1,a,b);
